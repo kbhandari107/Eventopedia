@@ -27,8 +27,8 @@ public class MainActivity extends AppCompatActivity {
         ListView listView = findViewById(R.id.listView);
         places.add("Add new place...");
         locations.add(new LatLng(0,0));
-        places.add("railway station champa");
-        locations.add(new LatLng(30,50));
+        places.add("champa");
+        locations.add(new LatLng(80,50));
 
         arrayAdapter = new ArrayAdapter(this, android.R.layout.simple_list_item_1, places);
 
