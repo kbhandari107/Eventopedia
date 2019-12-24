@@ -1,4 +1,4 @@
-package com.example.eventopedia_1;
+package com.example.eventopedia;
 
 import android.content.Context;
 
